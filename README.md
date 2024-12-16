@@ -62,6 +62,10 @@ I think we could explore this work in 2 ways.
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
+![Screenshot 2024-12-16 at 9 04 05 AM](https://github.com/user-attachments/assets/7f61f7ae-4b26-40ec-b91f-64941638539c)
+
+
+
 
 This is in the notebook
 
